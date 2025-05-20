@@ -1,1 +1,1 @@
-Creates exam.txt file
+Creates dummy 
